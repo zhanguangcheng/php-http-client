@@ -1,0 +1,7 @@
+composer.lock
+vendor
+.idea
+.vscode
+phpunit.xml
+tests/_output
+testdownload.json
